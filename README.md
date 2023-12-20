@@ -7,5 +7,5 @@ a group in which the charges of the journey get split between the
 co-passengers. Also we provide so many options such as choosing food according to the user's convenience.
 
 # for more you can find this project SRS and presentation pdf above.
-somehow if you pdf not rendering in github, then you may need to download this pdf to see content.
+somehow if pdf not rendering in github, then you may need to download this pdf to see content.
 
