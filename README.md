@@ -7,5 +7,5 @@ a group of fellow students in which the charges of the journey get split between
 co-passengers. Also we provide so many options such as choosing food according to the user's convenience.
 
 # Link for - [SRS](https://github.com/Prakashgolusingh/Project-Nitc_Travel_Together/blob/master/SRS_and_DesignTemplate_16.pdf), and [presentation](https://github.com/Prakashgolusingh/Project-Nitc_Travel_Together/blob/master/Presentation.pdf) of project.
-somehow if pdf not rendering in github, then you may need to download this pdf to see content.
+sometime if this pdf not rendering in github, then you may need to download.
 
